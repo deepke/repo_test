@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
-    <remote name="local" fetch="git@github.com:deepke/linux0.11.git" />
+    <remote name="local" fetch="https://github.com/deepke/linux0.11.git" />
     <default remote="local" revision="master"/>
     <project path="hello" name="helo"/>
 </manifest>
